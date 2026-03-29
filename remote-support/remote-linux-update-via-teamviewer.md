@@ -38,7 +38,7 @@ On connecting via TeamViewer, the terminal was opened and `ip a` was run to veri
 - `wlp3s0` (WiFi) — **UP and active**, assigned IP `192.168.1.173/24`
 - Machine has internet connectivity via WiFi — safe to proceed with updates
 
-![TeamViewer session showing ip a output in Ubuntu terminal](assets/TeamViewer Accessing Linux Ubuntu Distribution.png)
+![TeamViewer session showing ip a output in Ubuntu terminal](assets/TeamViewer_Linux_Ubuntu.png)
 
 ---
 
