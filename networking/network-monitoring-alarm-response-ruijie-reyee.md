@@ -181,7 +181,6 @@ Once issues are resolved:
 ## Related playbooks
 
 - `wifi-authentication-issues.md`
-- `vlan-troubleshooting.md`
 - `remote-linux-update-via-teamviewer.md`
 
 ---
