@@ -197,7 +197,6 @@ _+.            Matches E.164 format international numbers starting with +
 
 ## Related playbooks
 
-- `dns-resolution-failures.md`
 - `remote-linux-update-via-teamviewer.md`
 - `network-monitoring-alarm-response-ruijie-reyee.md`
 
